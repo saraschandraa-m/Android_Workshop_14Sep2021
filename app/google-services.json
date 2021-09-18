@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790599573082",
+    "project_id": "textrecognition-a38d4",
+    "storage_bucket": "textrecognition-a38d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790599573082:android:c2cda853f0cbb228c34263",
+        "android_client_info": {
+          "package_name": "com.nextstacks.textrecongitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790599573082-pi8tfdv4d9uai4l0u7s61kuhq4q651hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23SdlcCeTgSeL4Rg4tfSn6vTmvrdWwmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790599573082-pi8tfdv4d9uai4l0u7s61kuhq4q651hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
